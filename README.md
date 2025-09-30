@@ -3,7 +3,7 @@ Databricks Toolkit
 
 Experiment leveraging Xcode 26 and Apple Intelligence to build a Swift iOS app to assist Data professionals leveraing Databricks.
 
-Apple Intelligence Models
+Apple Intelligence Models, model providers:
 * ChatGPT in Xcode
 * Claude in Xcode
 * Grok - <to be integrated>
